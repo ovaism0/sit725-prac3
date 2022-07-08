@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ovaism0/sit725-prac3#readme",
   "dependencies": {
     "express": "*",
-    "moment": "2.24.0"
+    "moment": "2.29.4"
   }
 }
